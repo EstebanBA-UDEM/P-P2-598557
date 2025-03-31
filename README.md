@@ -24,5 +24,5 @@ final, en vez de ir comparando cada que se trabaja una metodología distinta.
 6. Selecciona o genera un nuevo modelo y úsalo para predecir la clase de los datos de
 prueba. La calidad de tu modelo se medirá exclusivamente con la métrica de exactitud
 (accuracy).
-- [HTML](./A1_2-598557.html)
-- [Jupyter Notebook](./A1_2-598557.ipynb)
+- [HTML](./P_P2-598557.html)
+- [Jupyter Notebook](./P_P2-598557.ipynb)
