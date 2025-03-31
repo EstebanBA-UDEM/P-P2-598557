@@ -1,8 +1,6 @@
 # P-P2-598557
 En este proyecto estarás trabajando con datos proporcionados por Kaggle, específicamente de
-la competencia “Spaceship Titanic” (https://www.kaggle.com/competitions/spaceship-titanic). Si
-no tienes una cuenta, deberás registrarte (te recomiendo usar tu correo institucional y tu
-nombre completo).
+la competencia “Spaceship Titanic” (https://www.kaggle.com/competitions/spaceship-titanic). La base de datos provienen de esta pagina.
 Desarrolla los siguientes puntos en una Jupyter Notebook, de forma que se genere un reporte
 fácilmente comprensible, intepretable y replicable, con información para el lector descrita en
 formato de markdown.
